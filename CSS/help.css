@@ -1,0 +1,21 @@
+body{
+    background-image: url(../src/images/000.jpeg);
+    background-color: #c9c9e974;
+}
+.fdiv{
+    border: 2px solid hsl(0, 81%, 28%);
+    text-align: left;
+    text-decoration-color: white;
+    font-weight: 400;
+    line-height: 2;
+    background-color: #f7f7fe;
+    background-image: url(../src/images/vector.jpg);
+    font-family: "Poppins", sans-serif;
+    
+}
+
+.fpara{
+    text-align: center;
+    background-image: url(../src/images/fob.jpg);
+    color: #f7f7fe;
+}
